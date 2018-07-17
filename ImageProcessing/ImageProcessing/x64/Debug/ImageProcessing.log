@@ -1,0 +1,22 @@
+﻿  Uic'ing ImageProcessing.ui...
+  Moc'ing PaintWidget.h...
+  Moc'ing MainWindow.h...
+  Moc'ing CustomWindow.h...
+  Moc'ing CreateMenu.h...
+  CreateMenu.cpp
+  CustomWindow.cpp
+  Enhance.cpp
+  Geom.cpp
+  Gray.cpp
+  ImgChange.cpp
+  main.cpp
+  MainWindow.cpp
+  Morp.cpp
+  PaintWidget.cpp
+  moc_CreateMenu.cpp
+  moc_CustomWindow.cpp
+  moc_MainWindow.cpp
+  moc_PaintWidget.cpp
+  正在生成代码...
+e:\self-study\qt\imageprogess\imageprocessing\imageprocessing\cpp\paintwidget.cpp(22): warning C4715: “PaintWidget::getImage”: 不是所有的控件路径都返回值
+  ImageProcessing.vcxproj -> E:\Self-Study\QT\ImageProgess\ImageProcessing\x64\Debug\ImageProcessing.exe
