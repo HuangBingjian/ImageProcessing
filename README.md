@@ -1,6 +1,8 @@
 # ImageProcessing
 图像处理自编软件 by 笔尖
 
+C++ OpenCV
+
 界面
 --
 <center><img src="https://github.com/HuangBingjian/ImageProcessing/blob/master/fig/1.png"  width="100%"/>
