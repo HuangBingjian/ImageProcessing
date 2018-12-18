@@ -2,7 +2,7 @@
 图像处理自编软件 by 笔尖
 
 C++  OpenCV  QT 
-实现细节见：https://blog.csdn.net/u013165921/article/category/7446339
+实现细节见：https://blog.csdn.net/u013165921/column/info/18269
 
 界面
 --
