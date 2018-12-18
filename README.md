@@ -1,7 +1,7 @@
 # ImageProcessing
 图像处理自编软件 by 笔尖
 
-C++ OpenCV
+C++  OpenCV  QT
 
 界面
 --
